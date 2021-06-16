@@ -15,8 +15,8 @@ Task was to make data frame without using inbuilt functions out of given folder 
 7. Making the spilt in test and train data 
 8. Implemented my own Navie Bayes.
   -8.1 Making Predictions (tweaking the hyperparameters)
-  -8.2 importing confusion matrix for score.
-  -8.3 Got accuracy of about 82 %
+    -8.2 importing confusion matrix for score.
+      -8.3 Got accuracy of about 82 %
 9. Implemented standard In-Built Navie-Bayes.
    -9.1 importing confusion matrix for score.
    -9.2 Got accuracy of 86 %
