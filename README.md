@@ -14,13 +14,13 @@ Task was to make data frame without using inbuilt functions out of given folder 
 6. Making data frame using string data and features set
 7. Making the spilt in test and train data 
 8. Implemented my own Navie Bayes.
-  -8.1 Making Predictions (tweaking the hyperparameters)\n
-    -8.2 importing confusion matrix for score.
-      -8.3 Got accuracy of about 82 %
+  - Making Predictions (tweaking the hyperparameters)\n
+    - importing confusion matrix for score.
+    - Got accuracy of about 82 %
 9. Implemented standard In-Built Navie-Bayes.
-   -9.1 importing confusion matrix for score.
-   -9.2 Got accuracy of 86 %
-10. saving results in csv with timestamp.
+     -Importing confusion matrix for score.
+     -Got accuracy of 86 %
+10. Saving results in csv with timestamp.
 
 # Conclusion 
 A MODEL WITH HARD-CODED NAVIE-BAYES IS ALMOST SAME (can perform better) THEN STANDARD IN-BULIT NAIVE BAYES.
